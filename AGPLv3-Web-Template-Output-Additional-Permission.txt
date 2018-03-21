@@ -1,0 +1,46 @@
+       The Web Template Output Additional Permission, Version 0.2
+
+This Web Template Output Additional Permission ("Additional Permission") is
+an additional permission under section 7 of the GNU Affero General Public
+License, version 3 ("AGPLv3"). It applies to all GPLv3'd material included
+in a repository where this Additional Permission appears in a file called
+LICENSE.ADDITIONAL-PERMISSION at the top directory of the repository ("the
+Package").
+
+When you use this Package in the normal manner to create a website, the
+Package generates HTML, Javascript, and CSS files which are deployed to
+create a website.  These files are considered "Output" of the Package,
+provided that the Package is used in an ordinary and customary way to create
+a website that contains HTML, CSS and Javascript.
+
+1. GRANT OF ADDITIONAL PERMISSION
+
+You have permission to propagate specific works of Output under terms more
+lax than AGPLv3, as outlined in this section.  All HTML Output may be
+propagated, modified, and/or redistributed under the terms of the Creative
+Commons Public Domain Dedication 1.0 ("CC0 1.0").  All CSS and Javscript
+Output may be propagated, modified, and/or redistributed under the terms of
+the GNU Lesser General Public License Version 3 ("LGPLv3") or any later
+version of that license as published by the Free Software Foundation, Inc.
+
+
+1. REVOCATION OF ADDITIONAL PERMISSION FOR UNCUSTOMARY MODIFICATIONS
+
+If you modify the Package to output HTML, Javascript and/or CSS that
+attempts to copy works from the Package that would otherwise not qualify for
+this additional permission as written, the Additional Permission is revoked
+and the license of such uncustomary modified HTML, Javascript or CSS shall
+remain AGPLv3 without additional permission.
+
+The intent of this clause is to assure that downstream modifiers do not
+cause the additional permission to apply to works that are not customarily
+in HTML, Javascript, or CSS form.  For example, modifying the Package to
+copy server-side python code into the HTML output is a modification not
+eligible for the Additional Permission.
+
+2. NO WEAKENING OF COPYLEFT.
+
+The availability of this Additional Permission does not imply any general
+presumption that third-party software is unaffected by the copyleft
+requirements of the AGPLv3 license of this Package.
+
