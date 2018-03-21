@@ -1,4 +1,4 @@
-       The Web Template Output Additional Permission, Version 0.2
+         The Web Template Output Additional Permission, Version 0.3
 
 This Web Template Output Additional Permission ("Additional Permission") is
 an additional permission under section 7 of the GNU Affero General Public
@@ -15,16 +15,16 @@ a website that contains HTML, CSS and Javascript.
 
 1. GRANT OF ADDITIONAL PERMISSION
 
-You have permission to propagate specific works of Output under terms more
-lax than AGPLv3, as outlined in this section.  All HTML Output may be
-propagated, modified, and/or redistributed under the terms of the Creative
-Commons Public Domain Dedication 1.0 ("CC0 1.0").  All CSS and Javscript
-Output may be propagated, modified, and/or redistributed under the terms of
-the GNU Lesser General Public License Version 3 ("LGPLv3") or any later
-version of that license as published by the Free Software Foundation, Inc.
+You have permission to propagate specific works of Output under terms other
+than AGPLv3, set forth in this section.  All HTML Output may be propagated,
+modified, and/or redistributed under the terms of the Creative Commons Public
+Domain Dedication 1.0 ("CC0 1.0").  All CSS and Javscript Output may be
+propagated, modified, and/or redistributed under the terms of the GNU Lesser
+General Public License Version 3 ("LGPLv3") or any later version of that
+license as published by the Free Software Foundation, Inc.
 
 
-1. REVOCATION OF ADDITIONAL PERMISSION FOR UNCUSTOMARY MODIFICATIONS
+2. REVOCATION OF ADDITIONAL PERMISSION FOR UNCUSTOMARY MODIFICATIONS
 
 If you modify the Package to output HTML, Javascript and/or CSS that
 attempts to copy works from the Package that would otherwise not qualify for
@@ -38,9 +38,8 @@ in HTML, Javascript, or CSS form.  For example, modifying the Package to
 copy server-side python code into the HTML output is a modification not
 eligible for the Additional Permission.
 
-2. NO WEAKENING OF COPYLEFT.
+3. NO WEAKENING OF COPYLEFT.
 
 The availability of this Additional Permission does not imply any general
 presumption that third-party software is unaffected by the copyleft
 requirements of the AGPLv3 license of this Package.
-
