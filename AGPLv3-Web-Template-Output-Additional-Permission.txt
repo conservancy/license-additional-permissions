@@ -1,11 +1,11 @@
       The Web Template Output Additional Permission, Version 0.6
-       
+
 This Web Template Output Additional Permission ("Additional Permission") is
 an additional permission under section 7 of the GNU Affero General Public
 License, version 3 ("AGPLv3"). It applies to all material licensed under
-AGPLv3 included in a repository where this Additional Permission appears in a
-file called LICENSE.ADDITIONAL-PERMISSION at the top directory of the
-repository ("the Package").
+AGPLv3 included in a repository ("the Package") where this Additional
+Permission appears in a file called LICENSE.ADDITIONAL-PERMISSION at the top
+directory of the repository.
 
 When you use this Package to create a website, the Package generates HTML,
 Javascript, and CSS files which are deployed to create a website and
