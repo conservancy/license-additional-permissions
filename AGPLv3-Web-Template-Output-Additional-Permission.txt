@@ -2,10 +2,9 @@
        
 This Web Template Output Additional Permission ("Additional Permission") is
 an additional permission under section 7 of the GNU Affero General Public
-License, version 3 ("AGPLv3"). It applies to all material licensed under
-AGPLv3 included in a repository ("the Package") where this Additional
-Permission appears in a file called LICENSE.ADDITIONAL-PERMISSION at the top
-directory of the repository.
+License, version 3 ("AGPLv3"). It applies to all material at the same level
+the folder where this Additional Permission is located and below ("the
+Package").
 
 1. DEFINITIONS
 
